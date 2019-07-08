@@ -6,7 +6,7 @@ public class MatchBuilder {
     private Integer startingIndex;
     private Integer endingIndex;
 
-    MatchBuilder setValue(String value) {
+    public MatchBuilder setValue(String value) {
         this.value = value;
         return this;
     }

@@ -6,7 +6,7 @@ public class Match {
     private Integer startingIndex;
     private Integer endingIndex;
 
-    Match(String value, Integer matchNumber, Integer startingIndex, Integer endingIndex) {
+    public Match(String value, Integer matchNumber, Integer startingIndex, Integer endingIndex) {
         this.value = value;
         this.matchNumber = matchNumber;
         this.startingIndex = startingIndex;

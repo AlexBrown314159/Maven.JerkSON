@@ -7,10 +7,27 @@ import java.util.List;
 
 public class ItemParser {
     public List<Item> parseItemList(String valueToParse) {
+
+
+
+
+
+
+
         return null;
     }
 
+
+
+
     public Item parseSingleItem(String singleItem) throws ItemParseException {
+
+
+
+
+
+
+
         return null;
     }
 }
